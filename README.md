@@ -1,7 +1,3 @@
-Here's a draft for your GitHub `README.md` file for the "Sleep Tracker" app, incorporating the description you provided and referencing the demo video you uploaded:
-
----
-
 # Sleep Tracker App  
 
 A sleek and functional sleep tracking app built using **Android Jetpack Compose**. The **Sleep Tracker** app helps users monitor their sleep patterns and assess the quality of their rest, enabling them to maintain a healthy sleep schedule for optimal mental and physical performance.
@@ -25,7 +21,7 @@ A good quality sleep is essential for effective functioning of both mind and bod
 
 Check out the app in action!  
 
-![Sleep Tracker Demo]([demo.mp4](https://drive.google.com/file/d/1F8exLDCpOQg5LgFN84CJbQEWfBnF55mc/view?usp=drive_link))
+![Sleep Tracker Demo]([https://drive.google.com/file/d/1F8exLDCpOQg5LgFN84CJbQEWfBnF55mc/view?usp=drive_link])
 
 > *Note*: Ensure you have a video player installed to view the demo.
 
