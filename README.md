@@ -17,11 +17,11 @@ A sleek and functional sleep tracking app built using **Android Jetpack Compose*
 
 A good quality sleep is essential for effective functioning of both mind and body. With the Sleep Tracker app, you can gain valuable insights into your sleep patterns and make improvements where needed.
 
-## Demo  
+## Demo  video 
 
 Check out the app in action!  
 
-![Sleep Tracker Demo]([https://drive.google.com/file/d/1F8exLDCpOQg5LgFN84CJbQEWfBnF55mc/view?usp=drive_link])
+![Sleep Tracker Demo]((https://drive.google.com/file/d/1F8exLDCpOQg5LgFN84CJbQEWfBnF55mc/view?usp=drive_link))
 
 > *Note*: Ensure you have a video player installed to view the demo.
 
@@ -60,11 +60,3 @@ We welcome contributions! If you'd like to improve the app or add new features:
 1. Fork the repository.  
 2. Create a new branch.  
 3. Make your changes and submit a pull request.  
-
-## License  
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-
----
-
-You can adjust or expand sections based on additional details or customization preferences.
